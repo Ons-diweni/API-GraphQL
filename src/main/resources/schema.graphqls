@@ -1,0 +1,13 @@
+
+type Student
+{
+    cin:String!
+    nomper :String
+    email :String
+}
+
+type QueriesResolver {allStudents:[Student]}
+
+schema {
+    query :QueriesResolver
+}
