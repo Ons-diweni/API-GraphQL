@@ -1,7 +1,9 @@
 
 ![](https://img.shields.io/badge/GraphQL-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/Java_8-yellow?style=for-the-badge)
-![](https://img.shields.io/badge/Api-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Queries-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Mutations-blue?style=for-the-badge)
+
 # $\-{\color{purple}{Api \ GraphQl  } \ \}$
 ### $\ \ \textcolor{Navy}{Simple \ Api \ to \ test \ GraphQL \ queries }$
 
